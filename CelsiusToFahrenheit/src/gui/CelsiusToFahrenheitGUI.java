@@ -8,7 +8,7 @@ package gui;
 import javax.swing.JFrame;
 /**
  *
- * @author ThinkPad
+ * @author Salehuddin
  */
 public class CelsiusToFahrenheitGUI extends JFrame {
 
